@@ -16,14 +16,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Facebook: https://facebook.com/YOUR_USERNAME
-- Email: your.email@example.com
-
----
 
 # 💻 Tech Stack
 
@@ -33,10 +25,6 @@
 - Java
 - Python
 
-### Web
-- HTML5
-- CSS3
-- JavaScript
 
 ### Databases
 - MySQL
@@ -44,7 +32,6 @@
 ### CS Fundamentals
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- Database Management Systems
 - Computer Networks
 - Operating Systems
 
