@@ -1,44 +1,87 @@
 ```md
-# Hi, I'm Sajjadul Islam 👋
+# 💫 About Me
 
-I'm an undergraduate **Computer Science & Engineering (CSE)** student at **Southeast University (SEU)**. My academic journey focuses on building strong fundamentals in computer science while developing practical skills through programming, algorithms, and software development projects.
+🎓 Computer Science & Engineering (CSE) student at Southeast University (SEU)
 
-## 🎓 Academic Focus
-- Computer Science & Engineering (CSE)
-- Currently completed through the 6th semester
-- Strong interest in software development and problem solving
-- Building a foundation for advanced study in Cybersecurity and AI
+🔐 Aspiring Cybersecurity Engineer with a growing interest in Artificial Intelligence & Machine Learning.
 
-## 💻 Programming Languages
+💻 I enjoy solving programming problems, building software projects, and strengthening my computer science fundamentals through hands-on learning.
+
+🚀 My goal is to become a security-focused software engineer who develops reliable, secure, and scalable applications.
+
+- 🌱 Currently learning **Database Management Systems (DBMS)** and expanding my knowledge of **Cybersecurity**
+- 👨‍💻 Practicing **Data Structures & Algorithms**
+- 📚 Exploring **Java, Python, C++, Computer Networks, and Operating Systems**
+- ⚡ Outside of coding, I enjoy learning new technologies, reading about cybersecurity, and spending time outdoors.
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- Facebook: https://facebook.com/YOUR_USERNAME
+- Email: your.email@example.com
+
+---
+
+# 💻 Tech Stack
+
+### Languages
 - C
 - C++
 - Java
 - Python
 
-## 📚 Areas of Interest
+### Web
+- HTML5
+- CSS3
+- JavaScript
+
+### Databases
+- MySQL
+
+### CS Fundamentals
 - Data Structures & Algorithms
 - Object-Oriented Programming
+- Database Management Systems
 - Computer Networks
 - Operating Systems
-- Database Systems
-- Cybersecurity
-- Artificial Intelligence & Machine Learning
 
-## 🚀 Current Goal
-Continuously improving my programming skills by building projects, practicing algorithms, and exploring modern security technologies.
+### Currently Exploring
+- Cybersecurity
+- AI & Machine Learning
 
 ---
-
-### 📂 Featured Projects
-- 🔹 Project 1: *Coming Soon*
-- 🔹 Project 2: *Coming Soon*
-- 🔹 Project 3: *Coming Soon*
-
-### 🌐 Connect with Me
-- LinkedIn: **[Your LinkedIn Profile]**
-- Portfolio: **[Your Portfolio]**
-- Email: **[Your Email]**
 ```
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajjad-arch&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Sajjad-arch&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjad-arch&theme=tokyonight&hide_border=false&layout=compact)
+
+![](https://streak-stats.demolab.com?user=Sajjad-arch&theme=tokyonight&hide_border=false)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Sajjad-arch&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Sajjad-arch&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Sajjad-arch&color=blue)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Sajjad-arch/Sajjad-arch/output/github-contribution-grid-snake-dark.svg)
