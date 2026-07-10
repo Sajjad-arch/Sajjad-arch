@@ -1,16 +1,44 @@
-## Hi there 👋
+```md
+# Hi, I'm Sajjadul Islam 👋
 
-<!--
-**Sajjad-arch/Sajjad-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate **Computer Science & Engineering (CSE)** student at **Southeast University (SEU)**. My academic journey focuses on building strong fundamentals in computer science while developing practical skills through programming, algorithms, and software development projects.
 
-Here are some ideas to get you started:
+## 🎓 Academic Focus
+- Computer Science & Engineering (CSE)
+- Currently completed through the 6th semester
+- Strong interest in software development and problem solving
+- Building a foundation for advanced study in Cybersecurity and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Programming Languages
+- C
+- C++
+- Java
+- Python
+
+## 📚 Areas of Interest
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Computer Networks
+- Operating Systems
+- Database Systems
+- Cybersecurity
+- Artificial Intelligence & Machine Learning
+
+## 🚀 Current Goal
+Continuously improving my programming skills by building projects, practicing algorithms, and exploring modern security technologies.
+
+---
+
+### 📂 Featured Projects
+- 🔹 Project 1: *Coming Soon*
+- 🔹 Project 2: *Coming Soon*
+- 🔹 Project 3: *Coming Soon*
+
+### 🌐 Connect with Me
+- LinkedIn: **[Your LinkedIn Profile]**
+- Portfolio: **[Your Portfolio]**
+- Email: **[Your Email]**
+```
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajjad-arch&show_icons=true&theme=tokyonight)
