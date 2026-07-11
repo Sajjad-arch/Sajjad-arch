@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science & Engineering student at Southeast University, Dhaka, currently in my 6th semester with a focus on **Cybersecurity**. I enjoy building things in **Java** and exploring how systems can be made more secure — from OOP-based applications to network scanning tools.<br><br>- 🔭 Currently exploring network security & cryptography fundamentals<br>- 📚 I'm currently learning computer networking<br>- 🌳 In my free time, I like to go outside and unwind
+I'm a Computer Science & Engineering student at Southeast University, Dhaka, currently I'm focueing on **Cybersecurity**. I enjoy by building things in **Java** and exploring how systems can be made more secure — from OOP-based applications to network scanning tools.<br><br>- 🔭 Currently exploring network security & cryptography fundamentals<br>- 📚 I'm currently learning computer networking<br>- 🌳 In my free time, I like to go outside and unwind
 
 
 # 💻 Tech Stack:
